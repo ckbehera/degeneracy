@@ -11,7 +11,7 @@ These instructions will get you a copy of the source code up and running on your
 
 ### Prerequisites
 
-MATLAB 2018b+ (not tested on versions prior to this)
+MATLAB 2018b (not tested on versions prior to this)
 
 ### Description of the folders containing script files 
 
